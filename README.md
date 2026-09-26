@@ -74,7 +74,6 @@ AI-FitTrack/
 │   └── app.js / server.js
 │
 ├── .env
-├── .env.example
 ├── .gitignore
 ├── package.json
 ├── FitTrack.postman_collection.json
