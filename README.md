@@ -77,7 +77,6 @@ AI-FitTrack/
 ├── .env.example
 ├── .gitignore
 ├── package.json
-├── package-lock.json
 ├── FitTrack.postman_collection.json
 └── README.md
 ```
