@@ -100,7 +100,7 @@ Make sure you have the following installed:
 ## 2. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/AI-FitTrack.git
+git clone https://github.com/Divnaveen/AI-Fit-Track.git
 ```
 
 Navigate into the project:
